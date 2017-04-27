@@ -1,0 +1,24 @@
+Website Layout:
+
+
+Div 1: slider plus company logo, logo will be left-hand corner.
+	Sub-div 1: company logo
+	Sub-div 2: slogan about company
+
+Div 2: navigator menu bar (buttons).
+	home | company activities | our previous jobs | important information | brief description of services | contact us | email | 
+
+Div 3: picture slider
+
+
+Div 4: points of high-lights (services provided, benefits of custersms etc) 
+	3 columns
+
+Div 5: combo of pictures and text.
+
+Misc:
+	1. add social media buttons.
+	2. code for the following:
+		a. page size 1024X768
+		b. resolutin 72 pixesi/in
+		c. color rgb 8-bit

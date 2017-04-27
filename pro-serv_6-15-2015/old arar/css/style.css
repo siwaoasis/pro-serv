@@ -1,0 +1,16 @@
+section { 
+    display: block;
+}
+div.panel-heading{background-color: #BB3D60; color: #ffffff;}.whitetext {
+	color: #E8E4E3;
+}
+a {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-size: larger;
+  background-color: #BB3D60;
+}
+.text-muted {
+	color: #FFFFFF;
+	background-color: #BB3D60;
+}
